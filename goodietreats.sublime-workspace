@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tags",
+				"tagsArray"
+			],
+			[
+				"email",
+				"emailGreet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4271,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Shenole/Documents/GitHub/goodietreats",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles"
+	],
+	"file_history":
+	[
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/index.html",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet.css",
+		"/C/website-projects/goodietreats/WEBSITE FILES/index.html",
+		"/C/Users/Shenole/Documents/GitHub/wakinghands.com/index.html",
+		"/C/Users/Shenole/Documents/GitHub/wakinghands.com/about.html",
+		"/C/Users/Shenole/Documents/GitHub/wakinghands.com/styles/stylesheet.css",
+		"/C/website-projects/sm9-1/stylesheetHOME_TEST.css",
+		"/C/website-projects/goevangelist/WEBSITE FILES/styles/stylesheet.css",
+		"/C/website-projects/goevangelist/WEBSITE FILES/index.html",
+		"/C/website-projects/goodietreats/WEBSITE FILES/media.html",
+		"/C/HTML/STACK-OVERFLOW/so_1/stylesheet.css",
+		"/C/HTML/STACK-OVERFLOW/so_1/index.html",
+		"/C/website-projects/goevangelist/WEBSITE FILES/missions.html",
+		"/C/website-projects/goevangelist/WEBSITE FILES/contact.html",
+		"/C/website-projects/goevangelist/WEBSITE FILES/about.html",
+		"/C/website-projects/goevangelist/WEBSITE FILES/classes_and_events.html",
+		"/C/Users/Shenole/Documents/GitHub/wakinghands.com/images/about-01.jpg",
+		"/C/website-projects/sm9-1/stylesheetHOME.css",
+		"/C/website-projects/sm9-1/index.html",
+		"/C/website-projects/jayhuntdesigns/WEBSITE FILES/styles/stylesheet.css",
+		"/C/Users/Shenole/Documents/GitHub/wakinghands.com/stylesheet.css",
+		"/C/Users/Shenole/Documents/GitHub/wakinghands.com/wakinghands-website",
+		"/C/Users/Shenole/Documents/GitHub/wakinghands/index.html",
+		"/C/Users/Shenole/Documents/GitHub/wakinghands/scripts/main.js",
+		"/C/Users/Shenole/Documents/GitHub/wakinghands/styles/stylesheet.css",
+		"/C/HTML/STACK-OVERFLOW/so_1/js1.js",
+		"/C/website-projects/renchworks/styles/stylesheetHOME.css",
+		"/C/website-projects/renchworks/styles/stylesheet.css",
+		"/C/HTML/javasite1/javasite1.js",
+		"/C/HTML/JAVASCRIPT_PROJECTS/javascript7.js",
+		"/C/HTML/JAVASCRIPT_PROJECTS/stylesheet7.css",
+		"/C/HTML/JAVASCRIPT_PROJECTS/hello7.html",
+		"/C/website-projects/wakinghands/WEBSITE FILES/index.html",
+		"/C/website-projects/wakinghands/WEBSITE FILES/styles/stylesheet.css",
+		"/C/website-projects/chi-ryu_jiujitsu/css/stylesheet_aboutpage.css",
+		"/C/website-projects/raptureguns/WEBSITE FILES/index.html",
+		"/C/website-projects/wakinghands/styles/stylesheet.css",
+		"/C/website-projects/wakinghands/index.html",
+		"/C/HTML/PRACTICE_PROJECTS/night_and_day/Website Files/script_main.js",
+		"/C/HTML/PRACTICE_PROJECTS/night_and_day/Website Files/styles/stylesheet.css",
+		"/C/HTML/PRACTICE_PROJECTS/night_and_day/Website Files/index.html",
+		"/C/HTML/CSS - Animation Experiments/ex1-sky01/index.html",
+		"/C/HTML/CSS - Animation Experiments/index3.html",
+		"/C/HTML/CSS - Animation Experiments/stylesheet3.css",
+		"/C/website-projects/goodietreats/WEBSITE FILES/styles/stylesheet.css",
+		"/C/HTML/JAVASCRIPT_PROJECTS/hello6.html",
+		"/C/HTML/JAVASCRIPT_PROJECTS/javascript6.js",
+		"/C/website-projects/jayhuntdesigns/WEBSITE FILES/media.html",
+		"/C/website-projects/jayhuntdesigns/WEBSITE FILES/index.html",
+		"/C/HTML/STACK-OVERFLOW/New folder/index.html",
+		"/C/HTML/JAVASCRIPT_PROJECTS/javascript5.js",
+		"/C/HTML/JAVASCRIPT_PROJECTS/hello5.html",
+		"/C/HTML/JAVASCRIPT_PROJECTS/hello3.html",
+		"/C/HTML/PRACTICE_PROJECTS/night_and_day/Website Files/stylesheet.css",
+		"/C/HTML/Template_experiments/EX3/index.html",
+		"/C/HTML/Template_experiments/EX3/stylesheet.css",
+		"/C/HTML/Template_experiments/EX3/javascript3.js",
+		"/C/website-projects/goodietreats/WEBSITE FILES/styles/stylesheet-about.css",
+		"/C/website-projects/goodietreats/WEBSITE FILES/styles/stylesheet-events.css",
+		"/C/website-projects/goodietreats/WEBSITE FILES/styles/stylesheet-media.css",
+		"/C/website-projects/goodietreats/WEBSITE FILES/styles/stylesheet-programs.css",
+		"/C/HTML/JAVASCRIPT_PROJECTS/stylesheet_js6.css",
+		"/C/website-projects/armorcorsecurity/WEBSITE FILES/assets/js/util.js",
+		"/C/website-projects/armorcorsecurity/WEBSITE FILES/assets/js/main.js",
+		"/C/website-projects/goodietreats/WEBSITE FILES/scripts/main.js",
+		"/C/website-projects/jayhuntdesigns/WEBSITE FILES/scripts/script.js",
+		"/C/website-projects/jayhuntdesigns/WEBSITE FILES/story.html",
+		"/C/website-projects/jayhuntdesigns/WEBSITE FILES/contact.html",
+		"/C/website-projects/jayhuntdesigns/WEBSITE FILES/collections.html",
+		"/C/website-projects/globlspec/index.html",
+		"/C/website-projects/globlspec/stylesheet.css",
+		"/C/HTML/JAVASCRIPT_PROJECTS/hello4javaScript.js",
+		"/C/HTML/JAVASCRIPT_PROJECTS/stylesheet_js4.css",
+		"/C/HTML/JAVASCRIPT_PROJECTS/hello4.html",
+		"/C/HTML/JAVASCRIPT_PROJECTS/hello4",
+		"/C/website-projects/jayhuntdesigns/WEBSITE FILES/scripts/timer.js",
+		"/C/HTML/CSS - Animation Experiments/ex1-sky01/stylesheet.css",
+		"/C/website-projects/renchworks/index.html",
+		"/C/website-projects/chi-ryu_jiujitsu/index.html",
+		"/C/website-projects/chi-ryu_jiujitsu/css/stylesheet_homepage.css",
+		"/C/website-projects/rlpimageconsultant/WEBSITE FILES/assets/js/util.js",
+		"/C/website-projects/rlpimageconsultant/WEBSITE FILES/assets/js/main.js",
+		"/C/website-projects/rlpimageconsultant/WEBSITE FILES/gallery.html",
+		"/C/website-projects/rlpimageconsultant/WEBSITE FILES/generic.html",
+		"/C/website-projects/rlpimageconsultant/WEBSITE FILES/assets/css/main.css",
+		"/C/website-projects/rlpimageconsultant/WEBSITE FILES/index.html",
+		"/C/website-projects/rlpimageconsultant/WEBSITE FILES/contact.html",
+		"/C/website-projects/jayhuntdesigns/WEBSITE FILES/scripts/script-root.js",
+		"/C/website-projects/RESOURCES-templates/ScrollingPage-(Verticle)_S9M/scripts/script.js",
+		"/C/website-projects/rlpimageconsultant/WEBSITE FILES/about.html",
+		"/C/website-projects/raptureguns/WEBSITE FILES/stylesheet.css",
+		"/C/website-projects/goodietreats/WEBSITE FILES/programs.html",
+		"/C/website-projects/goodietreats/WEBSITE FILES/contact.html",
+		"/C/website-projects/goodietreats/WEBSITE FILES/styles/stylesheet-contact.css",
+		"/C/website-projects/goodietreats/WEBSITE FILES/events.html",
+		"/C/website-projects/goodietreats/WEBSITE FILES/about.html",
+		"/C/website-projects/goodietreats/WEBSITE FILES/scripts/menu.js",
+		"/C/website-projects/RESOURCES-other/Responsive Gallery Starter Files/index.html",
+		"/C/website-projects/goodietreats/WEBSITE FILES/css/lightbox.css",
+		"/C/website-projects/RESOURCES-other/Responsive Gallery Starter Files/css/lightbox.css",
+		"/C/website-projects/ronihomedesign/WEBSITE FILES/assets/css/main.css",
+		"/C/website-projects/ronihomedesign/WEBSITE FILES/contact.html",
+		"/C/website-projects/ronihomedesign/WEBSITE FILES/gallery.html",
+		"/C/website-projects/ronihomedesign/WEBSITE FILES/index.html",
+		"/C/website-projects/ronihomedesign/WEBSITE FILES/about.html",
+		"/C/website-projects/goldenglowsecurity/WEBSITE FILES/assets/css/main.css",
+		"/C/website-projects/ronihomedesign/index.html",
+		"/C/website-projects/ronihomedesign/assets/css/main.css",
+		"/C/website-projects/ronihomedesign/generic.html",
+		"/C/website-projects/goldenglowsecurity/WEBSITE FILES/about.html",
+		"/C/website-projects/raptureguns/WEBSITE FILES/knives.html",
+		"/C/website-projects/goldenglowsecurity/WEBSITE FILES/index.html",
+		"/C/website-projects/jayhuntdesigns/contact.html",
+		"/C/website-projects/jayhuntdesigns/media.html",
+		"/C/website-projects/jayhuntdesigns/story.html",
+		"/C/website-projects/jayhuntdesigns/index.html",
+		"/C/website-projects/jayhuntdesigns/collections.html",
+		"/C/website-projects/jayhuntdesigns/styles/stylesheet.css",
+		"/C/website-projects/raptureguns_2.0/stylesheet.css",
+		"/C/website-projects/raptureguns_2.0/stylesheet2.css",
+		"/C/website-projects/raptureguns_2.0/index.html",
+		"/C/website-projects/raptureguns_2.0/about.html",
+		"/C/website-projects/shenole_dev/index.html",
+		"/C/website-projects/shenole_dev/payment.html",
+		"/C/website-projects/shenole_dev/stylesheet-payment.css",
+		"/C/website-projects/jayhuntTEST/styles/stylesheet.css",
+		"/C/website-projects/jayhuntTEST/scripts/script.js",
+		"/C/website-projects/jayhuntTEST/scripts/timer.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\Users\\Shenole\\Documents\\GitHub\\wakinghands.com\\images"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"homepage-pic.jpg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "goodietreats.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\HTML\\JAVASCRIPT_PROJECTS\\javascript3.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

@@ -135,7 +135,7 @@ ul.nav li:hover {
 
 /* ================================================================== */
 
-/* Setting up our grid */
+/* Setting up the grid */
 .container {
     width: 100%; /*Set the width of the entire website here */
     height: 100%;
@@ -199,7 +199,7 @@ ul.nav li:hover {
     float:left;
 }
 
-.four {
+.three-nav {
     width: 32%;
     float:left;
     margin-left: 2%;
@@ -269,7 +269,7 @@ ul.nav li:hover {
 /* ================ End Grid Code ======================= */
 
 .six-nav#tl {
-    background: url(../styles/images/pic4035.JPG) no-repeat center;
+    background: url(../styles/images/pic4036.JPG) no-repeat center;
 	background-size: cover;
 }
 
@@ -299,7 +299,7 @@ ul.nav li:hover {
 }
 
 .three-nav#bml {
-    background: url(../styles/images/pic3564.JPG) no-repeat center;
+    background: url(../styles/images/pic3565.JPG) no-repeat center;
 	background-size: cover;
 }
 
