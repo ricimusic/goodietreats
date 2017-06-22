@@ -303,9 +303,14 @@ ul.nav li:hover {
 	background-size: cover;
 }
 
-.three#bmr {
+.three-nav#bmr {
     background: url(../styles/images/pic6974.jpg) no-repeat center;
 	background-size: cover;
+}
+
+.three-nav#br {
+    background: url(../styles/images/pic7777.jpg) no-repeat center;
+    background-size: cover;
 }
 
 .three-nav {

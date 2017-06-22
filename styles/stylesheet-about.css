@@ -141,30 +141,13 @@ ul.nav li:hover {
     height: 100%;
 }
 
-#column1 {
-    width: 50%;
-    height: 100%;
-    float: left;
-}
-
-#column2 {
-    width: 50%;
-    height: 100%;
-    float: left;
-}
-
-.wrapper:after {
-    content: "";
-    display: block;
-    clear: both;
-}
-
 #text-block1 {
-    width: 75%;
-    background-color: rgba(151, 68, 105, 0.7);
-    padding: 25px;
     position: relative;
-    top: 200px;
+    width: 45%;
+    background-color: rgba(0, 0, 0, 0.85);
+    padding: 25px;
+    
+    top: 56%;
     margin: auto;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.25em;  
@@ -172,6 +155,17 @@ ul.nav li:hover {
 }
 
 /* ========== MEDIA QUERIES ========== */
+
+    /* ---------- 1300px Wide (landscape) ---------- */
+
+    @media only screen 
+      and (max-width: 1300px)
+      and (orientation: landscape) {
+
+        #text-block1 {
+            top: 33%;
+        }
+    }
 
     /* ---------- 1024px Wide (landscape) ---------- */
 
@@ -215,6 +209,10 @@ ul.nav li:hover {
       and (max-width: 800px)
       and (orientation: portrait) {
 
+        html {
+            background: url(../styles/images/bg1-900port.jpg) fixed no-repeat center;         
+        }
+
         .logoDiv {
             width: 180px;
             float: left;
@@ -233,16 +231,36 @@ ul.nav li:hover {
         ul.nav li a {
             font-size: .60em;
         }
+
+        #text-block1 {
+            top: 45%;
+        }
     }
 
-/* ---------- 414px Wide (portrait) ---------- */
+    /* ---------- 768px Wide (portrait) ---------- */
+
+    @media only screen
+      and (max-width: 768px)
+      and (orientation: portrait) {
+
+        html {
+            background: url(../styles/images/bg1-768port.jpg) fixed no-repeat center;         
+        }
+
+        #text-block1 {
+            top: 33%;
+        }
+    }
+
+    /* ---------- 414px Wide (portrait) ---------- */
 
     @media only screen 
       and (max-width: 414px)
       and (orientation: portrait) {
 
         html {
-            background: url(../styles/images/bg1-420port.jpg) fixed no-repeat center;         
+            background: url(../styles/images/bg1-420port.jpg) fixed no-repeat center;
+            overflow: hidden;        
         }
 
         .burger-nav {
@@ -296,7 +314,7 @@ ul.nav li:hover {
             width: 90%;
             padding: 10px;
             position: relative;
-            top: 200px;
+            top: 60%;
             margin: auto;
             color: #ffffff;
         }
@@ -309,3 +327,35 @@ ul.nav li:hover {
         p {
             font-size: .65em;
         }
+    }
+
+    /* ---------- 375px Wide (portrait) ---------- */
+
+    @media only screen 
+      and (max-width: 375px)
+      and (orientation: portrait) {
+
+        html {
+            background: url(../styles/images/bg1-375port.jpg) fixed no-repeat center;
+            overflow: hidden;        
+        }
+
+        #text-block1 {
+            top: 37%;
+        }
+
+    /* ---------- 320px Wide (portrait) ---------- */
+
+    @media only screen 
+      and (max-width: 320px)
+      and (orientation: portrait) {
+
+        html {
+            background: url(../styles/images/bg1-320port.jpg) fixed no-repeat center;
+            overflow: hidden;        
+        }
+
+        #text-block1 {
+            top: 37%;
+        }
+    }
