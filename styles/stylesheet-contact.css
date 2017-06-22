@@ -115,7 +115,7 @@ header img {
 
 ul.nav {
     list-style-type: none;
-    width: 700px;
+    width: 1000px;
     margin: auto;
 }
 
@@ -127,12 +127,13 @@ ul.nav li {
 ul.nav li a {
     color: #000000;
     font-size: 1em;
-
 }
 
 ul.nav li:hover {
     background-color: #c884a2;
 }
+
+/* ========== END NAVIGATION ========== */
 
 .wrapper {
     width: 100%;

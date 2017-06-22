@@ -269,7 +269,7 @@ ul.nav li:hover {
 /* ================ End Grid Code ======================= */
 
 .six-nav#tl {
-    background: url(../styles/images/pic4036.JPG) no-repeat center;
+    background: url(../styles/images/pic4036.jpg) no-repeat center;
 	background-size: cover;
 }
 
@@ -299,7 +299,7 @@ ul.nav li:hover {
 }
 
 .three-nav#bml {
-    background: url(../styles/images/pic3565.JPG) no-repeat center;
+    background: url(../styles/images/pic3565.jpg) no-repeat center;
 	background-size: cover;
 }
 
@@ -508,7 +508,7 @@ ul.nav li:hover {
             }
 
             ul.open {
-                height: 380px;
+                height: 510px;
             }
 
             ul li {

@@ -25,7 +25,7 @@ time, mark, audio, video {
 
 html {
     height: 100%;
-	background: url(../styles/images/bg3.jpg) fixed no-repeat center;
+	background: url(../styles/images/bg-construct.jpg) fixed no-repeat center;
     background-size: cover;
 }
 
@@ -36,49 +36,13 @@ body {
 /* ========== Text Settings ========== */
 
 h1 {
-	margin: 0;
-	padding: 0;
-    font-family: 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 3em;
     color: #ffffff;
     text-shadow: 3px 4px 7px #000000;
     position: relative;
-    top: 75%;
-}
-
-h2 {
-	margin: 0;
-	padding: 0;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.75em;    color: #ffffff;
-    text-shadow: 3px 4px 7px #000000;
-    position: relative;
-    top: 50%;
-}
-
-h3 {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 2em;
-    font-style: bold;    
-    color: #ffffff;
-    margin-bottom: 30px;
-}
-
-p#home-page {
-	font-size: 1em;
-	font-style: italic;
-    color: #ffffff;
-	margin: 15px;
-	position: relative;
-	top: 30%;
-}
-
-p.quoteAuth {
     text-align: center;
-    font-size: 1.25em;
-    color: #ffffff;
-    position: relative;
-    top: 33%;
+    top: 50%;
 }
 
 p {
@@ -90,8 +54,6 @@ a {
     font-family: 'Open Sans', sans-serif;
     text-decoration: none;
 }
-
-
 
 /* ========== NAVIGATION ==========*/
 
@@ -108,10 +70,6 @@ header {
     width: 220px;
     float: left;
     text-align: center;
-}
-
-header img {
-    
 }
 
 ul.nav {
@@ -136,36 +94,18 @@ ul.nav li:hover {
 
 /* ========== END NAVIGATION ========== */
 
-#column3 {
-    width: 50%;
-    height: 100%;
-    float: left;
-}
-
-#column4 {
-    width: 50%;
-    height: 100%;
-    float: left;
-}
-
-#text-block3 {
-    width: 75%;
-    background-color: rgba(151, 68, 105, 0.85);
-    padding: 25px;
-    position: relative;
-    top: 410px;
-    margin: auto;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.25em;  
-    color: #ffffff;
-}
-
-ol#program-activities {
-    padding-left: 40px;
-    list-style-type: none;
-}
-
 /* ========== MEDIA QUERIES ========== */
+
+    /* ---------- 1300px Wide (landscape) ---------- */
+
+    @media only screen 
+      and (max-width: 1300px)
+      and (orientation: landscape) {
+
+        #text-block1 {
+            top: 33%;
+        }
+    }
 
     /* ---------- 1024px Wide (landscape) ---------- */
 
@@ -175,12 +115,12 @@ ol#program-activities {
 
         ul.nav li {
             display: inline-block;
-            padding: 20px 20px;
+            padding: 20px 12px;
         }
 
         ul.nav li a {
             color: #000000;
-            font-size: 1em;
+            font-size: .5em;
         }
     }
 
@@ -190,12 +130,16 @@ ol#program-activities {
       and (max-width: 1024px)
       and (orientation: portrait) {
 
+        html {
+            background: url(../styles/images/bg1-1024port.jpg) fixed no-repeat center;         
+        }
+
         ul.nav li {
-            padding: 20px 20px;
+            padding: 20px 12px;
         }
 
         ul.nav li a {
-            font-size: 1em;
+            font-size: .5em;
         }
     }
 
@@ -204,6 +148,10 @@ ol#program-activities {
     @media only screen
       and (max-width: 800px)
       and (orientation: portrait) {
+
+        html {
+            background: url(../styles/images/bg1-900port.jpg) fixed no-repeat center;         
+        }
 
         .logoDiv {
             width: 180px;
@@ -217,22 +165,37 @@ ol#program-activities {
         }
 
         ul.nav li {
-            padding: 20px 14px;
+            padding: 20px 7px;
         }
 
-        ul.nav li a {
-            font-size: .60em;
+        #text-block1 {
+            top: 45%;
         }
     }
 
-/* ---------- 414px Wide (portrait) ---------- */
+    /* ---------- 768px Wide (portrait) ---------- */
+
+    @media only screen
+      and (max-width: 768px)
+      and (orientation: portrait) {
+
+        html {
+            background: url(../styles/images/bg-construct.jpg) fixed no-repeat center;         
+        }
+
+        #text-block1 {
+            top: 33%;
+        }
+    }
+
+    /* ---------- 414px Wide (portrait) ---------- */
 
     @media only screen 
       and (max-width: 414px)
       and (orientation: portrait) {
 
         html {
-            background: url(../styles/images/bg3-420port.jpg) fixed no-repeat center;         
+            background: url(../styles/images/bg-construct-420port.jpg) fixed no-repeat center;         
         }
 
         .burger-nav {
@@ -280,28 +243,9 @@ ol#program-activities {
             text-align: center;
             display: block;
             margin: 0;
-        }        
-
-        #text-block3 {
-            width: 85%;
-            padding: 10px;
-            position: relative;
-            top: 350px;
-            margin: auto;
-            color: #ffffff;
         }
 
-        h3 {
-            font-size: 1.15em;  
-            margin-bottom: 15px;
-        }
-
-        p {
-            font-size: .65em;
-        }
-
-        ol#program-activities {
-            padding-left: 10px;
-            font-size: .65em;
+        h1 {
+            font-size: 1.5em;
         }
     }
