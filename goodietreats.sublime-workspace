@@ -24,10 +24,10 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "events.html",
 			"settings":
 			{
-				"buffer_size": 4271,
+				"buffer_size": 3264,
 				"line_ending": "Windows"
 			}
 		}
@@ -69,8 +69,23 @@
 	],
 	"file_history":
 	[
-		"/C/Users/Shenole/Documents/GitHub/goodietreats/index.html",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-contact.css",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-media.css",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-events.css",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-about.css",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-testimonials.css",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/about.html",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-programs.css",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/gtLOGO1-mw1366.jpg",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/goodietreats.sublime-project",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/events.html",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/contact.html",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/awards.html",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/media.html",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet.css",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/testimonials.html",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/index.html",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/programs.html",
 		"/C/website-projects/goodietreats/WEBSITE FILES/index.html",
 		"/C/Users/Shenole/Documents/GitHub/wakinghands.com/index.html",
 		"/C/Users/Shenole/Documents/GitHub/wakinghands.com/about.html",
@@ -181,22 +196,7 @@
 		"/C/website-projects/goldenglowsecurity/WEBSITE FILES/about.html",
 		"/C/website-projects/raptureguns/WEBSITE FILES/knives.html",
 		"/C/website-projects/goldenglowsecurity/WEBSITE FILES/index.html",
-		"/C/website-projects/jayhuntdesigns/contact.html",
-		"/C/website-projects/jayhuntdesigns/media.html",
-		"/C/website-projects/jayhuntdesigns/story.html",
-		"/C/website-projects/jayhuntdesigns/index.html",
-		"/C/website-projects/jayhuntdesigns/collections.html",
-		"/C/website-projects/jayhuntdesigns/styles/stylesheet.css",
-		"/C/website-projects/raptureguns_2.0/stylesheet.css",
-		"/C/website-projects/raptureguns_2.0/stylesheet2.css",
-		"/C/website-projects/raptureguns_2.0/index.html",
-		"/C/website-projects/raptureguns_2.0/about.html",
-		"/C/website-projects/shenole_dev/index.html",
-		"/C/website-projects/shenole_dev/payment.html",
-		"/C/website-projects/shenole_dev/stylesheet-payment.css",
-		"/C/website-projects/jayhuntTEST/styles/stylesheet.css",
-		"/C/website-projects/jayhuntTEST/scripts/script.js",
-		"/C/website-projects/jayhuntTEST/scripts/timer.js"
+		"/C/website-projects/jayhuntdesigns/contact.html"
 	],
 	"find":
 	{
@@ -238,11 +238,11 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "events.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4271,
+						"buffer_size": 3264,
 						"regions":
 						{
 						},
@@ -354,7 +354,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -362,7 +362,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 168.0,
+	"side_bar_width": 198.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
