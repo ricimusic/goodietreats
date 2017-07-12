@@ -24,10 +24,18 @@
 	"buffers":
 	[
 		{
-			"file": "events.html",
+			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 3264,
+				"buffer_size": 1929,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles/stylesheet-contact.css",
+			"settings":
+			{
+				"buffer_size": 7366,
 				"line_ending": "Windows"
 			}
 		}
@@ -69,6 +77,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/events.html",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/contact.html",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-contact.css",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-media.css",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-events.css",
@@ -78,8 +88,6 @@
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-programs.css",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/gtLOGO1-mw1366.jpg",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/goodietreats.sublime-project",
-		"/C/Users/Shenole/Documents/GitHub/goodietreats/events.html",
-		"/C/Users/Shenole/Documents/GitHub/goodietreats/contact.html",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/awards.html",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/media.html",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet.css",
@@ -238,19 +246,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "events.html",
+					"file": "contact.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3264,
+						"buffer_size": 1929,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1501,
+								1501
 							]
 						],
 						"settings":
@@ -260,17 +268,48 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+						"translation.y": 179.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "styles/stylesheet-contact.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
