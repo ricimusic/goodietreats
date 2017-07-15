@@ -91,6 +91,10 @@ a {
     text-decoration: none;
 }
 
+span#ital {
+    font-style: italic;
+}
+
 
 
 /* ========== NAVIGATION ==========*/
@@ -136,34 +140,53 @@ ul.nav li:hover {
 
 /* ========== END NAVIGATION ========== */
 
-#column3 {
+.wrapper {
     width: 50%;
-    height: 100%;
-    float: left;
+    float: right;
 }
 
-#column4 {
-    width: 50%;
-    height: 100%;
-    float: left;
-}
-
-#text-block3 {
+#text-blockAwards {
     width: 75%;
     background-color: rgba(151, 68, 105, 0.85);
     padding: 25px;
     position: relative;
-    top: 410px;
+    top: 100px;
     margin: auto;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.25em;  
     color: #ffffff;
 }
 
-ol#program-activities {
-    padding-left: 40px;
-    list-style-type: none;
+#text-blockAwards:after {
+    content: "";
+    display: block;
+    clear: both;
 }
+
+.one-third {
+    width: 21%;
+    float:left;
+    margin: 2%;
+    margin-top: 0;
+}
+
+img.example-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    margin-bottom: -4px;
+
+    -webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+    transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+img:hover {
+    opacity: .65;
+    transform: scale(1.25);
+}
+
 
 /* ========== MEDIA QUERIES ========== */
 
