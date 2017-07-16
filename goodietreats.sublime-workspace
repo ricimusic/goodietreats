@@ -24,10 +24,13 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n\n<html>\n\n<head>\n    <title>GoodieTreats Awards</title>\n    <meta charset=\"utf-8\"/>\n    <meta name=\"author\"  content=\"Sharp 9 Media\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"styles/stylesheet-awards.css\">\n</head>\n\n<body>\n    <header>\n        <div class=\"logoDiv\">\n            <img src=\"gtLOGO1.jpg\" width=\"200px\">\n        </div>\n        <a class=\"burger-nav\"></a>\n        <ul class=\"nav\">\n            <a href=\"index.html\"><li>home</li></a>\n            <a href=\"about.html\"><li>about us</li></a>\n            <a href=\"events.html\"><li>events</li></a>\n            <a href=\"programs.html\"><li>programs</li></a>\n            <a href=\"media.html\"><li>media</li></a>\n            <a href=\"testimonials.html\"><li>testimonials</li></a>\n            <a href=\"awards.html\"><li>awards</li></a>\n            <a href=\"contact.html\"><li>contact us</li></a>\n        </ul>\n    </header>\n    <div class=\"wrapper\">\n        <div id=\"text-blockAwards\">\n            <h3>Goodie Treats Awards</h3>\n\n<!-- PHOTO GALLERY -->\n\n            <p>At Goodie Treats, we are proud to be an award winning organization. We welcome you to view our awards and join us on our mission of excellence. <span id=\"ital\">(click images for larger view and more info)</span></p>\n            <div id=\"pic-gallery\">\n                <!-- Gallery Row 1 Start -->\n                <section class=\"one-third\">\n                    <a class=\"example-image-link\" id=\"lightbox-img\" href=\"images/gal-pic001.JPG\" data-lightbox=\"example-set\" data-title=\"#\"><img class=\"example-image\" src=\"images/thumb001.jpg\" alt=\"#\" title=\"#\"></a>\n                </section>\n                <section class=\"one-third\">\n                    <a class=\"example-image-link\" id=\"lightbox-img\" href=\"images/gal-pic002.JPG\" data-lightbox=\"example-set\" data-title=\"#\"><img class=\"example-image\" src=\"images/thumb002.jpg\" alt=\"#\" title=\"#\"></a>\n                </section>\n                <section class=\"one-third\">\n                    <a class=\"example-image-link\" id=\"lightbox-img\" href=\"images/gal-pic003.JPG\" data-lightbox=\"example-set\" data-title=\"#\"><img class=\"example-image\" src=\"images/thumb003.jpg\" alt=\"#\" title=\"#\"></a>\n                </section>\n                <section class=\"one-third\">\n                    <a class=\"example-image-link\" id=\"lightbox-img\" href=\"images/gal-pic004.JPG\" data-lightbox=\"example-set\" data-title=\"#\"><img class=\"example-image\" src=\"images/thumb004.jpg\" alt=\"#\" title=\"#\"></a>\n                </section>\n                <!-- Gallery Row 1 End -->\n    \n\n    <script src=\"https://code.jquery.com/jquery-3.1.1.js\"></script>\n    <script src=\"https://code.jquery.com/ui/1.12.1/jquery-ui.min.js\"></script>\n    <script src=\"js/lightbox-plus-jquery.min.js\"></script>\n    <script src=\"scripts/menu.js\"></script>\n\n</body>\n\n</html>",
 			"file": "awards.html",
+			"file_size": 2954,
+			"file_write_time": 131446228157273357,
 			"settings":
 			{
-				"buffer_size": 1081,
+				"buffer_size": 2869,
 				"line_ending": "Windows"
 			}
 		},
@@ -35,7 +38,15 @@
 			"file": "styles/stylesheet-awards.css",
 			"settings":
 			{
-				"buffer_size": 5813,
+				"buffer_size": 6262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles/stylesheet-media.css",
+			"settings":
+			{
+				"buffer_size": 6669,
 				"line_ending": "Windows"
 			}
 		}
@@ -77,10 +88,11 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-media.css",
+		"/C/Users/Shenole/Documents/GitHub/goodietreats/media.html",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-contact.css",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/contact.html",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/events.html",
-		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-media.css",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-events.css",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-about.css",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet-testimonials.css",
@@ -89,7 +101,6 @@
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/gtLOGO1-mw1366.jpg",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/goodietreats.sublime-project",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/awards.html",
-		"/C/Users/Shenole/Documents/GitHub/goodietreats/media.html",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/styles/stylesheet.css",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/testimonials.html",
 		"/C/Users/Shenole/Documents/GitHub/goodietreats/index.html",
@@ -250,15 +261,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1081,
+						"buffer_size": 2869,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								970,
-								970
+								1251,
+								1251
 							]
 						],
 						"settings":
@@ -268,7 +279,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 466.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -286,15 +297,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5813,
+						"buffer_size": 6262,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								810,
-								810
+								3338,
+								3338
 							]
 						],
 						"settings":
@@ -304,10 +315,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 342.0,
+						"translation.y": 3484.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "styles/stylesheet-media.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3380,
+								3380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 3272.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
